@@ -13,12 +13,15 @@
   "dependencies": {
     "body-parser": "^1.20.2",
     "cors": "^2.8.5",
-    "docxtemplater": "^3.42.3",
+    "docx": "^8.2.4",
     "dotenv": "^16.3.1",
     "express": "^4.18.2",
+    "fs": "^0.0.1-security",
     "fs-extra": "^11.2.0",
+    "html-to-text": "^9.0.5",
     "mammoth": "^1.6.0",
     "mongoose": "^8.0.2",
-    "multer": "^1.4.5-lts.1"
+    "multer": "^1.4.5-lts.1",
+    "word-extractor": "^1.0.4"
   }
 }
